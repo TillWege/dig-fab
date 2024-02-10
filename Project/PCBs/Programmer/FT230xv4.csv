@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J3,J4";"PinHeader_1x03_P2.54mm_Vertical_THT_D1mm";2;"Conn_PinHeader_1x03_P2.54mm_Vertical_THT_D1.4mm";;;
+2;"R2,R1";"R_1206";2;"49";;;
+3;"R_PwrLed1";"R_1206";1;"499";;;
+4;"J2";"PinHeader_1x06_P2.54mm_Vertical_THT_D1.016mm";1;"Conn_01x06_Male";;;
+5;"R_Updi1";"R_1206";1;"4.7k";;;
+6;"U1";"SSOP-16_3.9x4.9_P0.65mm";1;"FT230XS";;;
+7;"R_RxLed1,R_TxLed1";"R_1206";2;"270";;;
+8;"J1";"Conn_USB_A_Plain";1;"USB_A_BoardPlug";;;
+9;"Rx1,Tx1,PWR1";"LED_1206";3;"LED";;;
+10;"C3,C4";"C_1206";2;"10 pF";;;
+11;"C1,C2";"C_1206";2;"1 uF";;;
